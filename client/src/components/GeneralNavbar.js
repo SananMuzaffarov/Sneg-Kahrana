@@ -46,6 +46,7 @@ const GeneralNavbar = ({ proprole }) => {
                                     marginLeft: "30%",
                                     padding: "7px 35px",
                                     borderRadius: "15px",
+                                    boxShadow: "0px 7px #1a5928",
                                     color: "#fff",
                                     cursor: "pointer",
                                     transition: "0.6s ease"
@@ -65,6 +66,7 @@ const GeneralNavbar = ({ proprole }) => {
                                     marginLeft: "25%",
                                     padding: "7px 25px",
                                     borderRadius: "15px",
+                                    boxShadow: "0px 7px #1a5928",
                                     color: "#fff",
                                     cursor: "pointer",
                                     transition: "0.6s ease"
